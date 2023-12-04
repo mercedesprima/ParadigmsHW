@@ -13,7 +13,6 @@ public class SortList {
             }
         }
 
-
         public static void sortListDeclarative(int[] array) {
             Arrays.sort(array);
             int left = 0;
